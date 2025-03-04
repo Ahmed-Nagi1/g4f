@@ -7,4 +7,4 @@ WORKDIR /app
 
 RUN pip install -U g4f[all]
 
-CMD ["python", "-m", "g4f", "--port", "8180", "--g4f-api-key", "skjfhd*@#&$^FR$IWevskHFEQYTDfzg8"]
+CMD ["python", "-m", "g4f", "--port", "8180"]
